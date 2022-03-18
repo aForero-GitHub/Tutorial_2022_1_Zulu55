@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POOConceptsConsole.Date">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAEAAAMAQAACAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConceptsConsole.Employee">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAEEAAQAAAAAAAIAAAIAAAAAAAAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConceptsConsole.SalaryEmployee">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>SalaryEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConceptsConsole.CommissionEmployee">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAEAAAABAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>CommissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
